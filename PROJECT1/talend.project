@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_72JIgPbXEeyyza0bsE2uWA" label="project1" description="project 1" language="java" technicalLabel="PROJECT1" author="_72JIgfbXEeyyza0bsE2uWA" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/SWETHATHUNIKOJU/cap1.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_72JIgfbXEeyyza0bsE2uWA" login="swethathunikoju11@trial39334.us.talend.com" firstName="Swetha" lastName="Thunikoju" authenticationInfo=":" type="DQ"/>
+</xmi:XMI>
